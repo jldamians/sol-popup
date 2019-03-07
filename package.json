@@ -1,0 +1,27 @@
+{
+  "name": "sol-popup",
+  "version": "1.0.0",
+  "description": "Cierra las ventanas emergentes informativas y de confirmación",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jasmine",
+    "start": "node /lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jldamians/sol-popup.git"
+  },
+  "keywords": [
+    "sunat",
+    "sol"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jldamians/sol-popup/issues"
+  },
+  "homepage": "https://github.com/jldamians/sol-popup#readme"
+}
