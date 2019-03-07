@@ -2,7 +2,7 @@
   "name": "sol-popup",
   "version": "1.0.1",
   "description": "Cierra las ventanas emergentes informativas y de confirmación",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "directories": {
     "lib": "lib"
   },
