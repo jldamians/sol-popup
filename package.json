@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/jldamians/sol-popup/issues"
   },
-  "homepage": "https://github.com/jldamians/sol-popup#readme"
+  "homepage": "https://github.com/jldamians/sol-popup#readme",
+  "devDependencies": {
+    "puppeteer": "^2.1.1",
+    "sol-login": "git+ssh://git@github.com/jldamians/sol-login.git#master"
+  }
 }
